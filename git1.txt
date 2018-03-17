@@ -6,3 +6,4 @@ I came from saman branch without commiting.Haha Yes that is suprising. But not t
 
 I merged sumin branch. Lets do it again
 Merge was successful from saman branch
+last merge
