@@ -1,3 +1,4 @@
 This is my first Git project. This is saman branch.
 I am saman munikar.
 This is sumin branch. I was created from saman branch.
+I came from saman branch without commiting.Haha Yes that is suprising. But not that surprising. I actually used git stash to come here. :) 
